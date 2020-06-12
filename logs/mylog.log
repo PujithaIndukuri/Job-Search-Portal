@@ -1,0 +1,93 @@
+2020-03-31 21:45:29,568 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-03-31 21:45:37,976 WARNING django.request Not Found: /{% static 'css/quill.snow.cssv
+2020-03-31 21:45:49,943 INFO jobsearchapp.views login successful
+2020-03-31 21:48:35,366 INFO django.utils.autoreload C:\Users\Sri\Desktop\jobboard\jobsearch\jobsearchapp\urls.py changed, reloading.
+2020-03-31 21:48:38,049 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-03-31 21:51:09,913 INFO jobsearchapp.views login successful
+2020-03-31 21:51:16,485 INFO jobsearchapp.views message
+2020-03-31 21:51:16,499 INFO jobsearchapp.views results successful
+2020-03-31 22:36:22,754 INFO django.utils.autoreload C:\Users\Sri\Desktop\jobboard\jobsearch\jobsearchapp\views.py changed, reloading.
+2020-03-31 22:36:26,118 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-03-31 22:36:54,096 INFO django.utils.autoreload C:\Users\Sri\Desktop\jobboard\jobsearch\jobsearchapp\views.py changed, reloading.
+2020-03-31 22:36:56,443 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-03-31 22:37:58,393 INFO django.utils.autoreload C:\Users\Sri\Desktop\jobboard\jobsearch\jobsearchapp\views.py changed, reloading.
+2020-03-31 22:38:00,661 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-03-31 22:38:06,975 INFO jobsearchapp.views user login failed
+2020-03-31 22:38:19,448 INFO jobsearchapp.views invalid credentials
+2020-03-31 22:38:48,766 INFO jobsearchapp.views invalid credentials
+2020-03-31 22:39:18,516 INFO jobsearchapp.views invalid credentials
+2020-03-31 22:41:50,591 INFO jobsearchapp.views login successful
+2020-03-31 22:41:50,622 INFO jobsearchapp.views login successful
+2020-03-31 22:42:03,435 INFO jobsearchapp.views search initiated
+2020-03-31 22:42:03,447 INFO jobsearchapp.views search successful showing results
+2020-03-31 22:42:34,426 INFO jobsearchapp.views search successful showing results
+2020-03-31 22:43:33,226 INFO jobsearchapp.views search successful showing results
+2020-03-31 22:43:48,954 INFO jobsearchapp.views login successful
+2020-03-31 22:44:08,011 INFO django.utils.autoreload C:\Users\Sri\Desktop\jobboard\jobsearch\jobsearchapp\views.py changed, reloading.
+2020-03-31 22:44:11,365 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-03-31 22:44:14,944 INFO jobsearchapp.views user login failed
+2020-03-31 22:45:51,090 INFO jobsearchapp.views login successful
+2020-03-31 22:45:51,139 INFO jobsearchapp.views login successful
+2020-03-31 22:46:07,678 INFO jobsearchapp.views search initiated
+2020-03-31 22:46:07,693 INFO jobsearchapp.views search successful showing results
+2020-03-31 22:47:46,975 INFO django.utils.autoreload C:\Users\Sri\Desktop\jobboard\jobsearch\jobsearchapp\views.py changed, reloading.
+2020-03-31 22:47:50,683 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-03-31 22:47:51,341 INFO jobsearchapp.views search successful showing results
+2020-03-31 22:49:00,079 INFO jobsearchapp.views search successful showing results
+2020-03-31 22:49:05,322 INFO jobsearchapp.views user login failed
+2020-03-31 22:49:32,185 INFO jobsearchapp.views login successful
+2020-03-31 22:49:32,212 INFO jobsearchapp.views login successful
+2020-03-31 22:49:44,327 INFO jobsearchapp.views search initiated
+2020-03-31 22:49:44,343 INFO jobsearchapp.views search successful showing results
+2020-03-31 22:50:13,413 INFO jobsearchapp.views user login failed
+2020-03-31 22:50:25,406 INFO jobsearchapp.views invalid credentials
+2020-03-31 22:57:45,118 INFO jobsearchapp.views login successful
+2020-03-31 22:57:45,165 INFO jobsearchapp.views login successful
+2020-03-31 22:57:59,579 INFO jobsearchapp.views search initiated
+2020-03-31 22:57:59,669 INFO jobsearchapp.views search successful showing results
+2020-03-31 22:58:26,065 INFO jobsearchapp.views user login failed
+2020-03-31 22:58:47,884 INFO jobsearchapp.views invalid credentials
+2020-03-31 23:05:58,617 INFO jobsearchapp.views login successful
+2020-03-31 23:05:58,637 INFO jobsearchapp.views login successful
+2020-03-31 23:06:22,525 INFO jobsearchapp.views user login failed
+2020-03-31 23:07:59,638 INFO jobsearchapp.views login successful
+2020-03-31 23:07:59,659 INFO jobsearchapp.views login successful
+2020-03-31 23:08:12,384 INFO jobsearchapp.views search initiated
+2020-03-31 23:08:12,394 INFO jobsearchapp.views search successful showing results
+2020-03-31 23:08:32,046 INFO jobsearchapp.views user login failed
+2020-03-31 23:08:47,303 INFO jobsearchapp.views invalid credentials
+2020-03-31 23:17:34,443 INFO django.utils.autoreload C:\Users\Sri\Desktop\jobboard\jobsearch\jobsearchapp\views.py changed, reloading.
+2020-03-31 23:17:37,835 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-04-04 18:59:41,971 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-04-04 19:00:23,719 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-04-04 19:00:24,579 INFO jobsearchapp.views user login failed
+2020-04-04 19:00:25,710 WARNING django.request Not Found: /favicon.ico
+2020-04-04 19:01:49,905 INFO jobsearchapp.views login successful
+2020-04-04 19:01:49,936 INFO jobsearchapp.views login successful
+2020-04-04 19:01:50,178 WARNING django.request Not Found: /ftco-32x32.png
+2020-04-04 19:02:40,186 INFO jobsearchapp.views search initiated
+2020-04-04 19:03:13,296 ERROR django.request Internal Server Error: /search
+Traceback (most recent call last):
+  File "C:\Users\Sri\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sri\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sri\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sri\Desktop\jobboard\jobsearch\jobsearchapp\views.py", line 96, in SearchView
+    soup = BeautifulSoup(job.get_attribute('innerHTML'),'html.parser')
+  File "C:\Users\Sri\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 139, in get_attribute
+    attributeValue = self.parent.execute_script(
+  File "C:\Users\Sri\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "C:\Users\Sri\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Sri\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+
+2020-04-04 19:03:45,101 INFO django.utils.autoreload C:\Users\Sri\Desktop\jobboard\jobsearch\jobsearchapp\views.py changed, reloading.
+2020-04-04 19:03:47,448 INFO django.utils.autoreload Watching for file changes with StatReloader
+2020-04-04 19:03:48,347 INFO jobsearchapp.views login successful
+2020-04-04 19:03:52,049 INFO jobsearchapp.views search successful showing results
